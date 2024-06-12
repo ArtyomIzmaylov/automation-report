@@ -5,7 +5,7 @@
 - Убедитесь, что у вас установлена система контроля версий git, иначе вы не сможете скачать проект
 - https://www.git-scm.com/downloads
 - Чтобы скачать проект, выполните команду:
-  - git clone https://github.com/ArtyomIzmaylov/greenatom-test-task-python-rpa.git
+  - git clone https://github.com/ArtyomIzmaylov/automation-report.git
 
 
 
