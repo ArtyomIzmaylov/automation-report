@@ -12,3 +12,6 @@
 - Выполните команду 
   - make install
   - pip install -r requirements.txt(если не работает make install)
+
+
+- Создаём .env файл, 
